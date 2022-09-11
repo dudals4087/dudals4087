@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm LEE YoungMin from Gachon univ..
 <!--
 **dudals4087/dudals4087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
